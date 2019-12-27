@@ -1,4 +1,4 @@
-repo for algo problem solution
+repo for algo problem solutions
 
 https://coderbyte.com/challenges
 
